@@ -1,4 +1,4 @@
-# GWAS_NetworkPropagation
+# Network Propagation for GWAS Analysis
 
 This repository contains the code used to generate the results for the paper "Network propagation for GWAS analysis: a practical guide to leveraging molecular networks for disease gene discovery", 
 by Giovanni Visonà, Emmanuelle Bouzigon, Florence Demenais, Gabriele Schweikert. 
